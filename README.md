@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Pandey</h1>
-<h3 align="center">SWE Intern’22 @HCL Tech | Expert (Level 7) @Codestudio | Exploring MERN Stack Web Development | EE Senior @GITM, Lucknow</h3>
+<h3 align="center">SWE Intern’22 @HCL Tech | Expert (Level 7) @Codestudio | EE Senior @GITM, Lucknow</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanlko&label=Profile%20views&color=0e75b6&style=flat" alt="namanlko" /> </p>
