@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Naman Pandey</h1>
-<h3 align="center">SWE Intern’22 @HCL Tech | Expert (Level 7) @Codestudio | EE Senior @GITM, Lucknow</h3>
+<h3 align="center">Upcoming Software Engineer @HCL Tech | SWE Intern’22 @HCL Tech | Expert (Level 7) @Codestudio | EE'23 @GITM, Lucknow</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanlko&label=Profile%20views&color=0e75b6&style=flat" alt="namanlko" /> </p>
 
-- 🌱 I’m currently learning **DSA with C++, MERN Stack Web Development, Android App Development**
+- 🌱 I’m currently exploring **DSA with C++ & MERN Stack Web Development**
 
-- 📫 How to reach me **namanpandeylko32@gmail.com**
+- 📫 How to reach me **namanpandey2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
