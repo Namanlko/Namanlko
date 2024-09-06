@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Naman this side</h1>
+<h1 align="center">Hi 👋, Naman this side!</h1>
 <h3 align="center">Software Engineer @HCL Tech | SWE Intern’22 @HCL Tech</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently exploring **DSA with C++ & MERN Stack Web Development**
 
-- 📫 How to reach me **namanpandey2402@gmail.com**
+- 📫 Feel free to reach out to me **namanpandey2402@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
