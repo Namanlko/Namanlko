@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanlko&label=Profile%20views&color=0e75b6&style=flat" alt="namanlko" /> </p>
 
-- 🔭 I’m a Graduate Engineer Trainee currently working as a **Windows and Vmware Admin for IHG (Inter Continental Hotel Group)**
+- 🔭 I’m a Graduate Engineer Trainee currently working as a **Windows and VMware Admin for IHG (Inter Continental Hotel Group)**
 
 - 🌱 I’m currently exploring **DSA with C++ and MERN Stack Web Development**
 
