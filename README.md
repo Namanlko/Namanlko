@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" style="width:2000px; height:300px;" alt="MasterHead">
-<h3 align="center">Technical Support Analyst @HCLTech </h3>
+<h3 align="center">Technical Support Analyst @HCLTech</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif">
 
 
