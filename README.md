@@ -7,7 +7,7 @@
 
 - 🔭 I’m a Graduate Engineer Trainee currently working as a **Windows and VMware Admin for IHG (InterContinental Hotel Group)**
 
-- 🌱 I’m currently exploring **DSA with C++ and MERN Stack Web Development**
+- 🌱 I’m currently exploring ** DSA with C++ and MERN Stack Web Development**
 
 - 📫 How to reach me **namanpandey2402@gmail.com**
 
