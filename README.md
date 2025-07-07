@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanlko&label=Profile%20views&color=0e75b6&style=flat" alt="namanlko" / > </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanlko&label=Profile%20views&color=0e75b6&style=flat" alt="namanlko" / ></p>
 
 - 🔭 I’m a Graduate Engineer Trainee currently working as a **Windows and VMware Admin for IHG (InterContinental Hotel Group)**
 
