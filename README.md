@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanlko&label=Profile%20views&color=0e75b6&style=flat" alt="namanlko"/></p>
 
-- 🔭 I’m working as an **Analyst @HCLTech**
-
-- 🌱 I’m currently exploring **DSA with C++ and MERN Stack Web Development**
+- 🌱 I’m currently exploring **DevOps and AWS Cloud Concepts**
 
 - 📫 How to reach me **namanpandey2402@gmail.com**
 
