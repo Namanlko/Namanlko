@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there!</h1>
 <p align=center>
- <b>Cloud & DevOps Engineering</b> | <b>Containerization & Orchestration</b> | <b>CI/CD Pipelines</b> | <b>Infrastructure as Code (IaC)</b> | <b>Observability & Monitoring</b>
+ <b>Cloud & DevOps</b> | <b>Containerization & Orchestration</b> | <b>CI/CD Pipelines</b> | <b>Infrastructure as Code</b> | <b>Observability & Monitoring</b>
 </p>
 
 ## 🚀 About Me
@@ -14,7 +14,7 @@ I also experiment with emerging technologies, including **Gen AI**, to enhance a
 - ⚡ **Fun fact:** I enjoy automating daily tasks for fun, if it can be scripted, I probably have a script for it!
 
 ## 🛠️ Tech Stack
-#### 🌩️ Cloud & DevOps Tools
+### 🌩️ Cloud & DevOps Tools
 <p align="left">
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/></a>
 <a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45"/></a>
@@ -27,7 +27,7 @@ I also experiment with emerging technologies, including **Gen AI**, to enhance a
 <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45"/></a>
 </p>
 
-#### 🏗️ Infrastructure as Code & Monitoring
+### 🏗️ Infrastructure as Code & Monitoring
 <p align="left">
 <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45"/></a>
 <a href="https://www.ansible.com/"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="45" height="45"/></a>
@@ -35,7 +35,7 @@ I also experiment with emerging technologies, including **Gen AI**, to enhance a
 <a href="https://grafana.com/"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45" height="45"/></a>
 </p>
 
-#### 💻 Programming & Scripting
+### 💻 Programming & Scripting
 <p align="left">
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/></a>
@@ -44,7 +44,7 @@ I also experiment with emerging technologies, including **Gen AI**, to enhance a
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
 </p>
 
-#### ☁️ AWS Cloud Services
+### ☁️ AWS Cloud Services
 <p align="left">
 <a href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" /></a>
 <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" /></a>
@@ -63,9 +63,6 @@ I also experiment with emerging technologies, including **Gen AI**, to enhance a
 <p align="center">
 <a href="https://www.linkedin.com/in/namanpandeylko" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Namanlko" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-VISIT-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:namanpandey2402@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
