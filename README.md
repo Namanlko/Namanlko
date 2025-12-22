@@ -4,7 +4,7 @@
 </p>
 
 ## 🚀 About Me
-I'm an experienced **Infrastructure Engineer** passionate about **DevOps**, automation, and building scalable & production-ready solutions. I specialize in optimizing infrastructure while adopting modern DevOps practices to streamline the deployment, monitoring, and operations. I enjoy learning by doing, transforming complex systems into practical workflows, and leveraging **AWS Cloud Concepts**, **CI/CD pipelines**, **containerization**, **orchestration**, and **Infrastructure as Code (IaC)** to deliver reliable and efficient solutions.
+I'm an experienced **IT Infrastructure Engineer** passionate about **DevOps**, automation, and building scalable & production-ready solutions. I specialize in optimizing infrastructure while adopting modern DevOps practices to streamline the deployment, monitoring, and operations. I enjoy learning by doing, transforming complex systems into practical workflows, and leveraging **AWS Cloud Concepts**, **CI/CD pipelines**, **containerization**, **orchestration**, and **Infrastructure as Code (IaC)** to deliver reliable and efficient solutions.
 
 I also experiment with emerging technologies, including **Gen AI**, to enhance automation, operational efficiency, and cloud-native practices. Every project I work on is an opportunity to simplify complexity, improve performance, and deliver production-grade outcomes.
 
