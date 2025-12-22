@@ -10,7 +10,7 @@ I also experiment with emerging technologies, including **Gen AI**, to enhance a
 
 - 🔭 Focused on DevOps, Automation, Cloud-native solutions and Infrastructure as Code (IaC) with Terraform.
 - 🌱 Continuously exploring new technologies, best practices, and innovative cloud solutions.
-- 💬 Ask me about Linux, Docker, Kubernetes, Terraform, Ansible, and AWS Cloud concepts
+- 💬 Ask me about Linux, Docker, Jenkins, Kubernetes, Terraform, Ansible, and AWS Cloud concepts
 - ⚡ **Fun fact:** I enjoy automating daily tasks for fun, if it can be scripted, I probably have a script for it!
 
 ## 🛠️ Tech Stack
