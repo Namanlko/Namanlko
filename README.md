@@ -7,10 +7,6 @@
 
 ## 🧑‍💻 `whoami`
 ```
-# ┌──────────────────────────────────────────────┐
-# │              system.profile                  │
-# └──────────────────────────────────────────────┘
-
 user:
   name        : Naman Pandey
   role        : Infrastructure · DevOps · Cloud Engineer
