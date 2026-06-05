@@ -23,7 +23,7 @@ capabilities:
     - Cloud Infrastructure ☁️
     - CI/CD Automation 🔄
     - Container Orchestration ⎈
-    - Infrastructure as Code 🌍
+    - Infrastructure as Code (IaC) 🌍
 
 growth_pipeline:
   currently_learning:
