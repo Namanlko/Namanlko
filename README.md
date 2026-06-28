@@ -82,7 +82,7 @@ signature:
   <source 
     srcset="https://streak-stats.demolab.com?user=Namanlko&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=cf222e&currStreakLabel=0969da&sideLabels=57606a&dates=57606a" 
     media="(prefers-color-scheme: light)" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Namanlko&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Namanlko&hide_border=true"  />
 </picture>
 </div>
 
