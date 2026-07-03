@@ -9,7 +9,7 @@
 ```
 user:
   name        : Naman Pandey
-  role        : Infrastructure · DevOps · Cloud Engineer
+  role        : DevOps · Cloud · Infrastructure Engineer
   location    : India 🇮🇳
 
 credentials:
