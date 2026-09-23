@@ -23,10 +23,11 @@ role:      DevOps / Cloud / Infrastructure Engineer
 location:  India
 
 focus:
-  - Cloud Infrastructure (Azure, AWS)
-  - CI/CD Automation
-  - Container Orchestration (Docker, Kubernetes)
+  - Cloud Infrastructure (AWS, Azure)
+  - CI/CD Automation (Jenkins, Gitlab, Github Actions)
+  - Container Orchestration (Docker, Docker Compose, Kubernetes)
   - Infrastructure as Code (Terraform, Ansible)
+  - Monitoring & Observability (Prometheus, Grafana, CloudWatch, Azure Monitor)
 
 currently_learning:
   - DevSecOps
